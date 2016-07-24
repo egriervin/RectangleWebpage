@@ -1,0 +1,10 @@
+#rect{
+  width:3cm;
+  height:3cm;
+  left:50%;
+  top:50%;
+  margin-left:-1.5cm;
+  margin-top:-1.5cm;
+  background:black;
+  position:absolute;
+}
